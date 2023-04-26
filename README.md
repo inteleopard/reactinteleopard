@@ -1,10 +1,8 @@
-### Hi there 👋
+### Full Stack Developer -> BLACK LEOPARD
 
 A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
 
 Full Stack Development
-
-
 
 ⚡ Building responsive website front end using React-Redux
 
@@ -12,6 +10,13 @@ Full Stack Development
 
 ⚡ Creating application backend in Node, Express & Flask
 
+UI/UX Design
+
+⚡ Designing highly attractive user interface for mobile and web applications
+
+⚡ Customizing logo designs and building logos from scratch
+
+⚡ Creating the flow of application functionalities to optimize user experience
 
 <!--
 **inteleopard/inteleopard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
