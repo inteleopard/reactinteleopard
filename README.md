@@ -2,7 +2,7 @@
 
 A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
 
-Full Stack Development
+❤Full Stack Development❤
 
 ⚡ Building responsive website front end using React-Redux
 
@@ -10,7 +10,7 @@ Full Stack Development
 
 ⚡ Creating application backend in Node, Express & Flask
 
-UI/UX Design
+❤UI/UX Design❤
 
 ⚡ Designing highly attractive user interface for mobile and web applications
 
