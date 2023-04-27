@@ -1,6 +1,8 @@
 ### Full Stack Developer -> BLACK LEOPARD
 A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
 
+My experienced fields are Ecommerce, Company Advertise, Traveling, Booking, Fitness,  Real-estate, Social Website, Web Scrapping, Digital Wallet,  NFT minting and Marketplace and etc.
+
 Here are my skills:
 
 <table>
