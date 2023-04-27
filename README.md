@@ -1,43 +1,7 @@
 ### Full Stack Developer -> BLACK LEOPARD
-
 A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
 
-❤Full Stack Development❤
-
-⚡ Building responsive website front end using React-Redux
-
-⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin
-
-⚡ Creating application backend in Node, Express & Flask
-
-❤UI/UX Design❤
-
-⚡ Designing highly attractive user interface for mobile and web applications
-
-⚡ Customizing logo designs and building logos from scratch
-
-⚡ Creating the flow of application functionalities to optimize user experience
-
-# Hi there 👋
-
-
-<p align="left">
-  <a href="https://github.com/Cleaninja/build-components">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Cleaninja/build-components">
-    <img
-      src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&fill=black">
-  </a>
-  <a href="https://github.com/Cleaninja/build-components">
-    <img style="height:190px"
-      src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
-  </a>
-</p>
-
-## Things I use on a daily basis
+Here are my skills:
 
 <table>
   <tr>
